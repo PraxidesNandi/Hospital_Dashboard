@@ -25,7 +25,7 @@ Time Analysis: Assess patient volume by day and hour.
 Objective: Provide a holistic summary of hospital performance for a selected date range.  
 Charts to Develop:  
 Similar metrics as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis  
-<a href = ""> Dashboard 1 </a>
+<a href = "https://github.com/PraxidesNandi/Hospital_Dashboard/blob/master/icons/Dashboard%202.png"> Dashboard 2 </a>
 
 ## Dashboard 3: Patient Details
 Objective: Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.  
@@ -38,11 +38,13 @@ Admission Date
 Patient Race  
 Wait Time  
 Department Referral  
+<a href = "https://github.com/PraxidesNandi/Hospital_Dashboard/blob/master/icons/Dashboard%203.png"> Dashboard 3 </a>
 
 ##  Dashboard 4: Consolidated View 
 Objective: Summarize the findings from all dashboards to provide clear and actionable insights for stakeholders.  
 Charts to Develop:  
-Descriptive analysis of each metric and visualization, including patterns, anomalies, and actionable recommendations to optimize emergency room operations and patient care
+Descriptive analysis of each metric and visualization, including patterns, anomalies, and actionable recommendations to optimize emergency room operations and patient care  
+<a href = "https://github.com/PraxidesNandi/Hospital_Dashboard/blob/master/icons/Dashboard%204.png"> Dashboard 4 </a>
 
 
 
