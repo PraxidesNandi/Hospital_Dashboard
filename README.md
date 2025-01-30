@@ -19,6 +19,7 @@ Timeliness: Measure the percentage of patients seen within 30 minutes.
 Gender Analysis: Visualize patient distribution by gender.  
 Racial Demographics: Analyze patient data by race.  
 Time Analysis: Assess patient volume by day and hour.  
+<a href = "
 
 ## Dashboard 2: Consolidated View 
 Objective: Provide a holistic summary of hospital performance for a selected date range.  
