@@ -1,6 +1,6 @@
 ## Hospital Emergency Room Dashboard
-Monthly View
-Consolidated View
-Patient Details
-Key Takeaways
+Monthly View  
+Consolidated View  
+Patient Details  
+Key Takeaways  
 
